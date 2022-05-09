@@ -12,6 +12,7 @@ University of California Irvine <br />
 GPA: 3.741, Cum Laude, Dean’s Honor List (9 Quarters) <br />
 
 ## Relevant Coursework
+
 | Course      | Semester    | Description |
 | ----------- | ----------- | ----------- |
 | CS 6601	- Artificial Intelligence       | Fall 2021   | TBD |
